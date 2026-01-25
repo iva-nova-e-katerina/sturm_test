@@ -1,0 +1,4 @@
+Request failed:
+  URL: http://localhost:8080/api/spline/upload
+  Status: 500
+  Body: {"status":"ERROR","error":"Внутренняя ошибка сервера","timestamp":"2026-01-25T12:04:24.046885098","details":"No static resource api/spline/upload."}
